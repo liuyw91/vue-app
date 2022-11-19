@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
-    "@vue/cli-service": "^3.11.0",
+    "@vue/cli-service": "^5.0.8",
     "element-theme-chalk": "https://github.com/ElementUI/theme-chalk",
     "node-sass": "^4.13.0",
     "sass-loader": "^8.0.0",
